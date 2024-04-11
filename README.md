@@ -25,7 +25,7 @@ To successfully show the output of each of the notebooks
 
 * Then run the notebooks in the followong order:
 1. Download (downloads the data)
-2. EDA & Processing (Exploratory Data Analysis of the different variables in the dataset)
+2. EDA & Preprocessing (Exploratory Data Analysis of the different variables in the dataset)
 3. Experiment Harness & Imputation (Train test split & imputation of missing values)
 4. Feature Engineering
 5. Baseline (Regression baseline model)
